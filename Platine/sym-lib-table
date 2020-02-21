@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name HM-LC-Sw1-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-LC-Sw1-rescue.lib)(options "")(descr ""))
+  (lib (name HM-LC-Sw2-FM-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-LC-Sw2-FM-rescue.lib)(options "")(descr ""))
+  (lib (name HM-LC-Sw1-FM-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-LC-Sw1-FM-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,14 @@
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.Cu.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.Cu.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.SilkS.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.SilkS.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.Mask.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.Mask.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-Edge.Cuts.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.Cu.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.Cu.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.SilkS.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.SilkS.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-F.Mask.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-B.Mask.gbr“ erstellt.
+Plot-Datei „R:\Wohnwagen-Board\Sensoren\HM-LC-Sw1-FM\Platine - Kopie\Gerber\HM-LC-Sw1-FM-Edge.Cuts.gbr“ erstellt.
