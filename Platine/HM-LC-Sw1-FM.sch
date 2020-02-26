@@ -6,10 +6,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "HM-LC-Sw1"
-Date "2019-03-16"
-Rev "1.2"
-Comp "Silvio Sternitzke"
-Comment1 ""
+Date "2020-02-01"
+Rev "V2.0.1"
+Comp ""
+Comment1 "©S. Sternitzke"
 Comment2 ""
 Comment3 ""
 Comment4 ""

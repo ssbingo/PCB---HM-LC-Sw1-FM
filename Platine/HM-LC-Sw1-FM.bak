@@ -6,10 +6,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "HM-LC-Sw1"
-Date "2019-03-16"
+Date "2020-02-01"
 Rev "1.2"
-Comp "Silvio Sternitzke"
-Comment1 ""
+Comp ""
+Comment1 "©S. Sternitzke"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -363,7 +363,7 @@ Wire Wire Line
 Text Label 2890 3900 2    60   ~ 0
 D16
 Wire Wire Line
-	7030 1065 7030 1180
+	7030 1065 7030 1070
 Wire Wire Line
 	7030 1180 6850 1180
 Text Label 6850 1180 0    60   ~ 0
@@ -397,7 +397,7 @@ F 3 "" H 7130 1180 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7130 1065 7130 1180
+	7130 1065 7130 1070
 NoConn ~ 2600 4000
 NoConn ~ 2600 2800
 $Comp
@@ -563,4 +563,37 @@ Text Label 2800 5750 2    60   ~ 0
 D2
 Text Label 2800 5850 2    60   ~ 0
 SS
+$Comp
+L Connector_Generic:Conn_01x02 J4
+U 1 1 5DB5BDA2
+P 7440 860
+F 0 "J4" V 7406 672 50  0000 R CNN
+F 1 "S1" V 7315 672 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7440 860 50  0001 C CNN
+F 3 "~" H 7440 860 50  0001 C CNN
+	1    7440 860 
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7030 1070 7065 1070
+Wire Wire Line
+	7065 1070 7065 1110
+Wire Wire Line
+	7065 1110 7440 1110
+Wire Wire Line
+	7440 1110 7440 1060
+Connection ~ 7030 1070
+Wire Wire Line
+	7030 1070 7030 1180
+Wire Wire Line
+	7130 1070 7160 1070
+Wire Wire Line
+	7160 1070 7160 1140
+Wire Wire Line
+	7160 1140 7540 1140
+Wire Wire Line
+	7540 1140 7540 1060
+Connection ~ 7130 1070
+Wire Wire Line
+	7130 1070 7130 1180
 $EndSCHEMATC
